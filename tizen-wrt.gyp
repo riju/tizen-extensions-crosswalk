@@ -43,5 +43,6 @@
     'notification/notification.gypi',
     'time/time.gypi',
     'power/power.gypi',
+    'tizen/tizen.gypi',
   },
 }
