@@ -33,6 +33,7 @@
             'filesystem/filesystem.gyp:*',
             'messageport/messageport.gyp:*',
             'nfc/nfc.gyp:*',
+            'package/package.gyp:*',
           ],
         }],
         [ 'extension_host_os == "mobile"', {
